@@ -1,0 +1,25 @@
+Figure,R_label,R_Filter,English,French
+Common,LEHC,,"Low Exposure, High Complementarity","Exposition faible, Complémentarité élevée"
+Common,LELC,,"Low Expoure, Low Complementarity","Exposition faible, Complémentarité faible"
+Common,HEHC,,"High Exposure, High Complementarity","Exposition élevée, Complémentarité élevée"
+Common,HELC,,"High Exposure, Low Complementarity","Exposition élevée, Complémentarité faible"
+Figure_1,Occupations,Human resources professionals,Human resources professionals,Professionnels des ressources humaines
+Figure_1,Occupations,Social and community service workers,Social and community service workers,Travailleurs sociaux et communautaires
+Figure_1,Occupations,Administrative assistants,Administrative assistants,Adjoints administratifs
+Figure_1,Occupations,Paralegals and related occupations,Paralegals,Parajuristes
+Figure_1,Occupations,"Border services, customs, and immigration officers","Border, customs, and immigration officers","Agents des frontières, des douanes et de l’immigration"
+Figure_1,Occupations,"Social policy researchers, consultants and program officers",Social policy researchers,Chercheurs en politique sociale
+Figure_1,Occupations,Financial auditors and accountants,Auditors and accountants,Auditeurs et comptables
+Figure_1,Occupations,Police officers (except commissioned),Police officers,Policiers
+Figure_1,Occupations,Firefighters,Firefighters,Pompiers
+Figure_1,Occupations,Correctional service officers,Correctional service officers,Agents des services correctionnels
+Figure_1,Occupations,Heavy equipment operators,Heavy equipment operators,Opérateurs d’équipement lourd
+Figure_1,Occupations,Public works and maintenance labourers,Public works and maintenance labourers,Ouvriers des travaux publics et de l’entretien
+Figure_1,Occupations,Landscaping and grounds maintenance labourers,Landscapers,Paysagistes
+Figure_1,Occupations,Transport truck drivers,Truck drivers,Camionneurs
+Figure_1,Occupations,Seniors managers - public and private sector,Senior managers,Cadres supérieurs
+Figure_1,Occupations,Lawyers and Quebec notaries,Lawyers,Avocats
+Figure_1,Occupations,General office support workers,Office support workers,Employés de soutien de bureau
+Figure_1,Occupations,Other administrative services managers,Administrative service managers,Gestionnaires des services administratifs
+Figure_1,Occupations,Employment insurance and revenue officers,Employment insurance and revenue officers,Agents de l’assurance-emploi et du revenu
+Figure_1,Occupations,Survey interviewers and statistical clerks,Survey interviewers and statistical clerks,Enquêteurs et commis aux statistiques
